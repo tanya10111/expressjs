@@ -14,6 +14,7 @@ The branches are structured so that they correspond to the videos in the course.
 
 You may find additional branches that correspond to other states, so for example, you may see a `t`, which means this is a target branch. A target branch is something I use during development or updates of a course and it's for a branch that I'm working towards. For the purposes of taking a course, you may ignore any additional branches. The `master` branch usually has the state of the project as I'm working through it and the final state of the code when I finish the course. 
 
+# Tanya kashyap
 ## Installing
 1. Make sure you have these installed
 	- [node.js](http://nodejs.org/)
